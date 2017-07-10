@@ -1,0 +1,7 @@
+#Mon Jul 10 16:11:33 PDT 2017
+base.0=C\:\\Users\\660252952\\StudioProjects\\Project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ad8d7637c1cd1db161a4ce7728fbbc7a63703f37
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\660252952\\StudioProjects\\Project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11b51cdf380effebe5145f1005286689ddd38666\\classes.dex
+base.1=C\:\\Users\\660252952\\StudioProjects\\Project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_11b51cdf380effebe5145f1005286689ddd38666
+file.0=C\:\\Users\\660252952\\StudioProjects\\Project5_TestTimer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ad8d7637c1cd1db161a4ce7728fbbc7a63703f37\\classes.dex
